@@ -1,5 +1,4 @@
 Ext.onReady(function(){
-	
 	Ext.define('Calculator', {
 		config:{
 			name:'张三'
@@ -31,7 +30,9 @@ Ext.onReady(function(){
 	
 	
 	console.log(document);
-	 
+	
+	Ext.Msg.alert('警告','出错');
+	
 });
 
 

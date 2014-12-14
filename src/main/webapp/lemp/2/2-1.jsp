@@ -6,7 +6,7 @@
 <html>
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-		<title>111</title>
+		<title></title>
 		
 		<link rel="stylesheet" type="text/css" href="${Elemp}/static/ext/resources/css/ext-all.css">
 		<script type="text/javascript" src="${Elemp}/static/ext/bootstrap.js"></script>
